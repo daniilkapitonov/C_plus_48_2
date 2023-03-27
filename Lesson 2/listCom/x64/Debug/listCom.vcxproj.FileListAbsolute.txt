@@ -1,0 +1,5 @@
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\listCom\x64\Debug\listCom.vcxproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\listCom\x64\Debug\listCom.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\listCom\x64\Debug\listCom.exe
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\listCom\x64\Debug\listCom.MyForm.resources
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\listCom\x64\Debug\listCom.vcxproj.GenerateResource.cache

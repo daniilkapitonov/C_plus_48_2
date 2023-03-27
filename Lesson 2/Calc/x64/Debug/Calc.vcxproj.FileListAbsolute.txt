@@ -1,0 +1,5 @@
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Calc\x64\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Calc\x64\Debug\Calc.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Calc\x64\Debug\Calc.exe
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Calc\x64\Debug\Calc.MyForm.resources
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Calc\x64\Debug\Calc.vcxproj.GenerateResource.cache

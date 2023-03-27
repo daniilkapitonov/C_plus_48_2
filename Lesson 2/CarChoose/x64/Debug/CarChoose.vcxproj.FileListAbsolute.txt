@@ -1,0 +1,5 @@
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\CarChoose\x64\Debug\CarChoose.vcxproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\CarChoose\x64\Debug\CarChoose.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\CarChoose\x64\Debug\CarChoose.exe
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\CarChoose\x64\Debug\CarChoose.MyForm.resources
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\CarChoose\x64\Debug\CarChoose.vcxproj.GenerateResource.cache
