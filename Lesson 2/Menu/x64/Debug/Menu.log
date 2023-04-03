@@ -1,4 +1,2 @@
-﻿  MyForm.cpp
-C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Menu\MyForm.h(138,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+﻿  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   Menu.vcxproj -> C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 2\Menu\x64\Debug\Menu.exe

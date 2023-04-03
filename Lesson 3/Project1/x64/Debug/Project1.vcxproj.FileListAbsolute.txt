@@ -1,0 +1,5 @@
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\Project1\x64\Debug\Project1.exe
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
