@@ -4,12 +4,12 @@
   Скопировано файлов:         1.
   Скопировано файлов:         1.
   Скопировано файлов:         1.
-  Подпапка или файл C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\test_img\x64\Debug Dynamic\resources уже существует.
-  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\test_img\resources\ball.wav
-  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\test_img\resources\sansation.ttf
+  Подпапка или файл C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\test_img\x64\Debug Dynamic\resources уже существует.
+  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\test_img\resources\ball.wav
+  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\test_img\resources\sansation.ttf
   Скопировано файлов:         2.
   main.cpp
-c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 3\test_img\main.cpp(22): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\test_img\main.cpp(30): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
           with
           [
               T=unsigned int
@@ -18,5 +18,23 @@ c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 3\test_img\main.cpp(22): w
           [
               T=float
           ]
-c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 3\test_img\main.cpp(26): warning C4305: инициализация: усечение из "double" в "float"
-  test_img.vcxproj -> C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 3\test_img\x64\Debug Dynamic\test_img.exe
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\test_img\main.cpp(38): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\test_img\main.cpp(42): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\test_img\main.cpp(46): warning C4305: инициализация: усечение из "double" в "float"
+  test_img.vcxproj -> C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\test_img\x64\Debug Dynamic\test_img.exe

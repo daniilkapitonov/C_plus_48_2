@@ -1,0 +1,33 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\oopcircle\x64\Debug Dynamic\resources уже существует.
+  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\oopcircle\resources\ball.wav
+  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\oopcircle\resources\sansation.ttf
+  Скопировано файлов:         2.
+  main.cpp
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\oopcircle\main.cpp(13): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\oopcircle\main.cpp(25): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\oopcircle\main.cpp(28): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\oopcircle\main.cpp(31): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 4\oopcircle\main.cpp(34): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  oopcircle.vcxproj -> C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 4\oopcircle\x64\Debug Dynamic\oopcircle.exe
