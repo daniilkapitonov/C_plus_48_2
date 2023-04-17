@@ -1,0 +1,22 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 5\Solar_Sys\x64\Debug Dynamic\resources уже существует.
+  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 5\Solar_Sys\resources\ball.wav
+  C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 5\Solar_Sys\resources\sansation.ttf
+  Скопировано файлов:         2.
+  main.cpp
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 5\solar_sys\main.cpp(61): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 5\solar_sys\main.cpp(63): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 5\solar_sys\main.cpp(163): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 5\solar_sys\main.cpp(166): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 5\solar_sys\main.cpp(168): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\daniil\desktop\it_lessons\c_plus_48_2\lesson 5\solar_sys\main.cpp(170): warning C4305: аргумент: усечение из "double" в "float"
+  Solar_Sys.vcxproj -> C:\Users\Daniil\Desktop\IT_Lessons\C_plus_48_2\Lesson 5\Solar_Sys\x64\Debug Dynamic\Solar_Sys.exe
